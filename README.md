@@ -1,2 +1,3 @@
 # MetodeKomputasi
 **ndika**
+ndikaaaa
